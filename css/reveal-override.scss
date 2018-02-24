@@ -5,10 +5,26 @@
 
 
 
+.cover .reveal {
+	margin: 0 !important;
+	padding: 0 !important;
+        background:
+            url(../images/cephaloconAPAC-titlepage_full.png)
+                no-repeat;
+}
+
 .reveal {
     font-family: "Open Sans Condensed", sans-serif;
     font-weight: normal;
     font-size: 30px;
+    color: #555555;
+    background:
+        url(../images/cephaloconAPAC-background.png)
+            no-repeat;
+
+    strong {
+      color: black;
+    }
 
     section img {
         /* Disable background 4px border around images */
@@ -195,6 +211,7 @@
         }
     }
 }
+
 
 @media print {
     .reveal {
