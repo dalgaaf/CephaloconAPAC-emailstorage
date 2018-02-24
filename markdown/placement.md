@@ -19,7 +19,7 @@
 
 <!-- .slide: data-state="normal" id="placement-3" data-timing="20s" data-menu-title="3FCs" -->
 <div>
-  <center><img data-src="images/fc-ceph-EC+3xReplication-color.svg" style="width:85%"></center>
+  <center><img data-src="images/fc-ceph-EC+3xReplication-color_white.svg" style="width:85%"></center>
 </div>
 
 

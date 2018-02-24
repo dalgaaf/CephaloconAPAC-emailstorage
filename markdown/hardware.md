@@ -5,8 +5,8 @@
 <!-- .slide: data-state="normal" id="hardware-0" data-timing="20s" data-menu-title="Hardware" -->
 ## Commodity x86_64 server
 <div>
-     <img style="position: absolute; width: 35%; left: 55%; " alt="librmb architecture overview"
-          data-src="images/HPE-DL380Gen9.jpg" />
+     <img style="position: absolute; width: 35%; left: 65%; " alt="librmb architecture overview"
+          data-src="images/HPE-DL380Gen9.png" />
 </div>
 * <!-- .element: class="fragment" data-fragment-index="1" --> HPE ProLiant DL380 Gen9
 * <!-- .element: class="fragment" data-fragment-index="2" --> Dual Socket
@@ -20,8 +20,8 @@
 <!-- .slide: data-state="normal" id="hardware-1" data-timing="20s" data-menu-title="Hardware Server specs" -->
 ## Commodity x86_64 server
 <div>
-     <img style="position: absolute; width: 35%; left: 55%; " alt="librmb architecture overview"
-          data-src="images/HPE-DL380Gen9.jpg" />
+     <img style="position: absolute; width: 35%; left: 65%; " alt="librmb architecture overview"
+          data-src="images/HPE-DL380Gen9.png" />
 </div>
 ### CephFS Nodes (MDS, OSDs) <!-- .element: class="fragment" data-fragment-index="0" -->
 * <!-- .element: class="fragment" data-fragment-index="1" --> <b>CPU:</b> 2x E5-2643v4 @ 3.4 GHz, 6 Cores, turbo 3.7GHz

@@ -18,13 +18,13 @@
 Note: emails are stored compressed
 
 
-<!-- .slide: data-state="normal" id="mailplatform-nfs" data-timing="20s" data-menu-title="NFS" -->
+<!-- .slide: data-state="normal" id="mailplatform-nfs-ops" data-timing="20s" data-menu-title="NFS Operations" -->
 ## NFS Operations
 
 <center><img src="images/nfs-ops_libreoffice_noframe.png" style="width:90%"></center>
 
 
-<!-- .slide: data-state="normal" id="mailplatform-nfs" data-timing="20s" data-menu-title="NFS" -->
+<!-- .slide: data-state="normal" id="mailplatform-nfs-traffic" data-timing="20s" data-menu-title="NFS Traffic" -->
 ## NFS Traffic
 
 <center><img data-src="images/nfs-traffic_libreoffice_noframe.png" style="width:90%"></center>
