@@ -21,24 +21,24 @@ Note: emails are stored compressed
 <!-- .slide: data-state="normal" id="mailplatform-nfs-ops" data-timing="20s" data-menu-title="NFS Operations" -->
 ## NFS Operations
 
-<center><img src="images/nfs-ops_libreoffice_noframe.png" style="width:90%"></center>
+<img src="images/nfs-ops_libreoffice_noframe.png" style="width:100%">
 
 
 <!-- .slide: data-state="normal" id="mailplatform-nfs-traffic" data-timing="20s" data-menu-title="NFS Traffic" -->
 ## NFS Traffic
 
-<center><img data-src="images/nfs-traffic_libreoffice_noframe.png" style="width:90%"></center>
+<img data-src="images/nfs-traffic_libreoffice_noframe.png" style="width:100%">
 
 
 <!-- .slide: data-state="normal" id="mailplatform-nfs-stats" data-timing="20s" data-menu-title="NFS-stats" -->
 ## NFS relevant IOs
 
-<center><img data-src="images/nfs-ops_relevant_libreoffice_noframe.png" style="width:90%"></center>
+<img data-src="images/nfs-ops_relevant_libreoffice_noframe.png" style="width:100%">
 
 
 <!-- .slide: data-state="normal" id="mailplatform-mails-dist" data-timing="20s" data-menu-title="email distribution" -->
 ## Email Distribution
-<center><img src="images/email-size-distribution_libreoffice_new.png" style="width:90%"></center>
+<img src="images/email-size-distribution_libreoffice_new.png" style="width:95%">
 
 Note: avg 42 KiB, max 600 MiB
 
