@@ -5,7 +5,9 @@
 .cover .reveal {
   margin: 0 !important;
   padding: 0 !important;
-  background: url(../images/cephaloconAPAC-titlepage_full.png) no-repeat;
+  background: url(../images/cephaloconAPAC-titlepage_full.png);
+  background-size: cover !important;
+  background-repeat: no-repeat;
 }
 
 .reveal {
@@ -13,7 +15,9 @@
   font-weight: normal;
   font-size: 30px;
   color: #555555;
-  background: url(../images/cephaloconAPAC-background.png) no-repeat;
+  background: url(../images/cephaloconAPAC-background.png);
+  background-size: cover !important;
+  background-repeat: no-repeat;
   /* Make sure keyboard shortcuts help is visible */
   /* Blow iframe up to full screen size */
 }
