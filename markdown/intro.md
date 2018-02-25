@@ -10,6 +10,7 @@ with
 ## Ceph
 
 <br>
+<img src="images/qrcode.png" style="width:15%; left: 93%; position: absolute">
 Danny Al-Gaaf <br>
 Deutsche Telekom AG
 <br>
