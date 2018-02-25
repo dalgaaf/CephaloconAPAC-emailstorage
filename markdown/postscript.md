@@ -2,9 +2,10 @@
 <div class="call-to-action">
     <h2 class="inside">
         <br />
+        <br />
         <u><b>Be invited to:</u></b> Participate! <br />
         <br>
-        Try it, test it, feedback and report bugs!
+        Try it, test it, feedback and report bugs! <br />
         Contribute! <br />
         <br>
         <a href="http://github.com/ceph-dovecot/">github.com/ceph-dovecot/</a>

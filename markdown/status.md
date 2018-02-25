@@ -63,7 +63,7 @@
 <!-- .slide: data-state="normal" id="status-5" data-timing="20s" data-menu-title="Further Development" -->
 ## Further Development
 
-### Goal: Pure RADOS backend, store metadata/index in Ceph omap
+### Goal: Pure RADOS backend, store metadata/index in omap
 
 <div>
      <img style="width: 87%;" alt="librmb target architecture overview"
