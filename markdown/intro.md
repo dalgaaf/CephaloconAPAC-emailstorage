@@ -4,13 +4,13 @@
 <br>
 <br>
 <br>
-## Email Storage
+# Email Storage
 with 
 <br>
-## Ceph
+# Ceph
 
 <br>
-<img src="images/qrcode.png" style="width:15%; left: 93%; position: absolute">
+<img src="images/qrcode.png" style="width:15%; left: 76%; position: absolute">
 Danny Al-Gaaf <br>
 Deutsche Telekom AG
 <br>
