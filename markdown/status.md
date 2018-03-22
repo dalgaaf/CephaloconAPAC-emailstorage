@@ -47,6 +47,8 @@
 
 ### Cluster network bandwidth <!-- .element: class="fragment" data-fragment-index="7" -->
 
+### Load generator for email traffic <!-- .element: class="fragment" data-fragment-index="8" -->
+
 
 <!-- .slide: data-state="normal" id="status-4" data-timing="20s" data-menu-title="Next Steps" -->
 ## Move to Production
@@ -63,7 +65,7 @@
 <!-- .slide: data-state="normal" id="status-5" data-timing="20s" data-menu-title="Further Development" -->
 ## Further Development
 
-### Goal: Pure RADOS backend, store metadata/index in omap
+### Goal: Pure RADOS backend, store metadata/index in Ceph omap
 
 <div>
      <img style="width: 87%;" alt="librmb target architecture overview"
